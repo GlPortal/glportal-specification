@@ -6,7 +6,12 @@ The purpose of this document is to describe the features for GlPortal.
 GlPortal is a first-person action game with puzzle elements.
 
 The player is equipped with a teleportation device that can place both ends of a teleporter.
-Portals can be placed on special surfaces on walls, floors and ceilings.
+Portals can be placed on special surfaces on walls, floors and ceilings.an area climb  if the player falls
+12
+he loses progress because he ends up .
+
+Platforming is an important element. There are segments where the player has to climb up a tower.
+If the player falls he loses progress.
 
 In order to keep the player emersed instead of allowing the player to save continiously there are specific checkpoints in the game where the player can save his progress. There are also certain points where the progress is saved automatically.
 
