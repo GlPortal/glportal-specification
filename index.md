@@ -11,7 +11,7 @@ Portals can be placed on special surfaces on walls, floors and ceilings.an area 
 he loses progress because he ends up .
 
 Platforming is an important element. There are segments where the player has to climb up a tower.
-If the player falls he loses progress.
+If the player falls down to a previous area he loses progress.
 
 In order to keep the player emersed instead of allowing the player to save continiously there are specific checkpoints in the game where the player can save his progress. There are also certain points where the progress is saved automatically.
 
